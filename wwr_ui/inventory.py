@@ -29,6 +29,10 @@ REGULAR_ITEMS = [
   "Ghost Ship Chart",
   "Empty Bottle",
   "Magic Meter Upgrade",
+  "Wind Waker",
+  "Balled of Galles",
+  "Song of Passing",
+  "Wind's Requiem",
 ]
 REGULAR_ITEMS.sort()
 
