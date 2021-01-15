@@ -12,7 +12,6 @@ REGULAR_ITEMS = [
   "Bombs",
   "Skull Hammer",
   "Deku Leaf",
-  "Mirror Shield",
   "Hurricane Spin",
   "Din's Pearl",
   "Farore's Pearl",
@@ -36,6 +35,7 @@ REGULAR_ITEMS.sort()
 PROGRESSIVE_ITEMS = \
   ["Progressive Bow"]       * 3 + \
   ["Progressive Quiver"]    * 2 + \
+  ["Progressive Shield"]    * 2 + \
   ["Progressive Bomb Bag"]  * 2 + \
   ["Progressive Wallet"]    * 2 + \
   ["Progressive Picto Box"] * 2 + \
