@@ -153,11 +153,6 @@ class Randomizer:
     
     # Starting items. This list is read by the Logic when initializing your currently owned items list.
     self.starting_items = [
-      "Wind Waker",
-      "Wind's Requiem",
-      "Ballad of Gales",
-      "Song of Passing",
-      "Hero's Shield",
       "Boat's Sail",
     ]
     self.starting_items += self.options.get("starting_gear", [])
