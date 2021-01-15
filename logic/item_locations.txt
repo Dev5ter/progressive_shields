@@ -195,13 +195,13 @@ Windfall Island - Chu Jelly Juice Shop - Give 15 Blue Chu Jelly:
   Paths:
     - CustomSymbol:doc_bandam_blue_potion_slot_item_id
 Windfall Island - Ivan - Catch Killer Bees:
-  Need: Nothing
+  Need: Wind Waker
   Original item: Piece of Heart
   Types: Short Sidequest
   Paths:
     - rels/d_a_npc_mk.rel@20CB
 Windfall Island - Mrs. Marie - Catch Killer Bees:
-  Need: Nothing
+  Need: Wind Waker
   Original item: Purple Rupee
   Types: Short Sidequest
   Paths:
@@ -214,7 +214,7 @@ Windfall Island - Mrs. Marie - Catch Killer Bees:
 #    - rels/d_a_tag_mk.rel@0637
 #    - sea/Stage.arc/Event093:MK_PENDANT/Actor001/Action005
 Windfall Island - Mrs. Marie - Give 1 Joy Pendant:
-  Need: Spoils Bag
+  Need: Spoils Bag & Wind Waker
   # Since it's just 1 Joy Pendant for this one, don't require Grappling Hook to farm spoils like the others.
   # You can get the one Joy Pendant from the tree on Windfall, or by killing Bokoblins until one drops it.
   Original item: Red Rupee
@@ -222,13 +222,13 @@ Windfall Island - Mrs. Marie - Give 1 Joy Pendant:
   Paths:
     - rels/d_a_npc_ho.rel@0B4B
 Windfall Island - Mrs. Marie - Give 21 Joy Pendants:
-  Need: Spoils Bag & Can Farm Joy Pendants
+  Need: Spoils Bag & Can Farm Joy Pendants & Wind Waker
   Original item: Cabana Deed
   Types: Spoils Trading
   Paths:
     - rels/d_a_npc_ho.rel@0B77
 Windfall Island - Mrs. Marie - Give 40 Joy Pendants:
-  Need: Spoils Bag & Can Farm Joy Pendants
+  Need: Spoils Bag & Can Farm Joy Pendants & Wind Waker
   Original item: Hero's Charm
   Types: Spoils Trading
   Paths:
@@ -270,7 +270,7 @@ Windfall Island - Lenzo's House - Right Chest:
     - Ocmera/Stage.arc/Chest001
 Windfall Island - Lenzo's House - Become Lenzo's Assistant:
   Need:
-    Picto Box
+    Picto Box & Wind Waker
   Original item: Joy Pendant
   Types: Long Sidequest
   Paths:
@@ -280,6 +280,7 @@ Windfall Island - Lenzo's House - Bring Forest Firefly:
     Picto Box
     & Empty Bottle
     & Can Access Forest Haven
+    & Wind Waker
   Original item: Deluxe Picto Box
   Types: Long Sidequest
   Paths:
@@ -400,7 +401,7 @@ Windfall Island - 80 Rupee Auction:
 #  Paths:
 #    - rels/d_a_npc_rsh1.rel@30DF
 Windfall Island - Zunari - Stock Exotic Flower in Zunari's Shop:
-  Need: Rescued Aryll & Delivery Bag
+  Need: Rescued Aryll & Delivery Bag & Wind Waker
   Original item: Magic Armor
   Types: Short Sidequest
   Paths:
@@ -408,7 +409,7 @@ Windfall Island - Zunari - Stock Exotic Flower in Zunari's Shop:
     - rels/d_a_npc_rsh1.rel@338F
     - CustomSymbol:zunari_magic_armor_slot_item_id
 Windfall Island - Sam - Decorate the Town:
-  Need: Rescued Aryll & Delivery Bag
+  Need: Rescued Aryll & Delivery Bag & Wind Waker
   Original item: Piece of Heart
   Types: Long Sidequest
   Paths:
@@ -497,13 +498,13 @@ Windfall Island - Kamo - Full Moon Photo:
   Paths:
     - rels/d_a_npc_people.rel@C55F
 Windfall Island - Minenco - Miss Windfall Photo:
-  Need: Deluxe Picto Box
+  Need: Deluxe Picto Box & Wind Waker
   Original item: Treasure Chart 33
   Types: Short Sidequest
   Paths:
     - rels/d_a_npc_people.rel@C553
 Windfall Island - Linda and Anton:
-  Need: Deluxe Picto Box & Song of Passing
+  Need: Deluxe Picto Box & Song of Passing & Wind Waker
   # You must become Lenzo's assistant, then wait one day, then agree to help Linda.
   # Then take a photo of Linda with the Deluxe Picto Box and show it to Anton. (You can do this before the parts with Lenzo and Linda if you want.)
   # Then wait an additional two days, and Linda and Anton will be in the cafe.
@@ -1784,14 +1785,14 @@ Ganon's Tower - Maze Chest:
 
 # Note: In the vanilla game, the mailbox would not give you any mail until you owned Din's Pearl. But this requirement is removed in the randomizer.
 Mailbox - Letter from Hoskit's Girlfriend:
-  Need: Spoils Bag & Can Farm Golden Feathers & Song of Passing
+  Need: Spoils Bag & Can Farm Golden Feathers & Song of Passing & Wind Waker
   # Need to wait for time to pass.
   Original item: Piece of Heart (Alternate Message)
   Types: Mail, Spoils Trading
   Paths:
     - rels/d_a_obj_toripost.rel@25DC
 Mailbox - Letter from Baito's Mother:
-  Need: Delivery Bag & Note to Mom & Song of Passing
+  Need: Delivery Bag & Note to Mom & Song of Passing & Wind Waker
   # Need to wait for time to pass.
   Original item: Piece of Heart
   Types: Mail
@@ -1799,7 +1800,7 @@ Mailbox - Letter from Baito's Mother:
     - rels/d_a_obj_toripost.rel@2564
     - rels/d_a_obj_toripost.rel@25C4
 Mailbox - Letter from Baito:
-  Need: Delivery Bag & Note to Mom & Song of Passing & Can Access Other Location "Earth Temple - Jalhalla Heart Container"
+  Need: Delivery Bag & Note to Mom & Wind Waker & Song of Passing & Can Access Other Location "Earth Temple - Jalhalla Heart Container"
   # Need to kill Jalhalla and Baito's mom must have sent her letter (doesn't matter if you've read her letter or not).
   # You do not need to wait for time to pass for this one, but because you did need to wait for time to pass for the one from his mother first, we still require Song of Passing here.
   Original item: Red Rupee
@@ -1832,7 +1833,7 @@ Mailbox - Beedle's Silver Membership Reward:
       | Bombs
       | Hero's Bow
       | Empty Bottle
-    ) & Song of Passing
+    ) & Song of Passing & Wind Waker
   # In order to get enough points to become a silver/gold member, you need to buy consumables.
   # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
   # Need to wait for time to pass.
@@ -1847,7 +1848,7 @@ Mailbox - Beedle's Gold Membership Reward:
       | Bombs
       | Hero's Bow
       | Empty Bottle
-    ) & Song of Passing
+    ) & Song of Passing & Wind Waker
   # In order to get enough points to become a silver/gold member, you need to buy consumables.
   # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
   # Need to wait for time to pass.
@@ -1865,14 +1866,14 @@ Mailbox - Letter from Orca:
   Paths:
     - rels/d_a_obj_toripost.rel@2588
 Mailbox - Letter from Grandma:
-  Need: Empty Bottle & Can Get Fairies & Song of Passing
+  Need: Empty Bottle & Can Get Fairies & Song of Passing & Wind Waker
   # Need to wait for time to pass.
   Original item: Red Rupee
   Types: Mail
   Paths:
     - rels/d_a_obj_toripost.rel@2594
 Mailbox - Letter from Aryll:
-  Need: Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container" & Song of Passing
+  Need: Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container" & Song of Passing & Wind Waker
   # Note: In the vanilla game, this letter is sent after you watch a cutscene in Hyrule 2.
   # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Helmaroc King.
   # Need to wait for time to pass.
@@ -1881,7 +1882,7 @@ Mailbox - Letter from Aryll:
   Paths:
     - rels/d_a_obj_toripost.rel@25B8
 Mailbox - Letter from Tingle:
-  Need: Rescued Tingle & Any Wallet Upgrade & Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container" & Song of Passing
+  Need: Rescued Tingle & Any Wallet Upgrade & Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container" & Song of Passing & Wind Waker
   # You need a wallet upgrade because it costs 201 rupees to receive this letter.
   # Note: In the vanilla game, this letter is sent after you watch a cutscene in Hyrule 2.
   # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Helmaroc King.
