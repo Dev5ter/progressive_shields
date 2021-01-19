@@ -24,10 +24,7 @@ Skull Hammer:
   the hammer of the dead
 Deku Leaf:
   a magic leaf
-Hero's Shield:
-  a basic defensive item
-Mirror Shield:
-  a defensive item that reflects light
+
 Triforce Shard 1:
   a piece of the power of the gods
 Triforce Shard 2:
@@ -80,6 +77,8 @@ Progressive Sword:
   an upgrade for your blade
 Progressive Bow:
   an upgrade for your bow
+Progressive Shield:
+  an upgrade for your shield
 Progressive Wallet:
   an upgrade for your Rupee bag
 Progressive Picto Box:
