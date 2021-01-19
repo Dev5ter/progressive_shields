@@ -1838,7 +1838,7 @@ Mailbox - Beedle's Silver Membership Reward:
   # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
   # Need to wait for time to pass.
   Original item: Complimentary ID
-  Types: Expensive Purchase # Too tedious to buy 30 items just to progress
+  Types: Expensive Purchase, Mail, Misc # Too tedious to buy 30 items just to progress
   Paths:
     - rels/d_a_obj_toripost.rel@25D0
 Mailbox - Beedle's Gold Membership Reward:
@@ -1853,7 +1853,7 @@ Mailbox - Beedle's Gold Membership Reward:
   # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
   # Need to wait for time to pass.
   Original item: Fill-Up Coupon
-  Types: Expensive Purchase # Too tedious to buy 60 items just to progress
+  Types: Expensive Purchase, Mail, Misc # Too tedious to buy 60 items just to progress
   Paths:
     - rels/d_a_obj_toripost.rel@25F4
 Mailbox - Letter from Orca:
