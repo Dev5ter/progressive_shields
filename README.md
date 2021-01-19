@@ -3,6 +3,7 @@
 1: The Hero's Shield, Wind Waker, Ballad of Gales, Wind's Requiem, and Song of Passing have the option to be randomized.
 2: The Hero's Shield and the Mirror shield are progressive exaclty like the bow, swords, picto etc.
 3: The Wind Waker can NEVER be in a location that HAS to be recevied in the day, or a mail letter that requires time to pass.
+4: Orca - Hit 500 Times (Misc) & Beedles Gold + Silver memberships letters (Expensive Purchases) can hold progressive items.
 
 ### About
 
