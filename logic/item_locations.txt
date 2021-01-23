@@ -1913,7 +1913,7 @@ The Great Sea - Cyclos:
   Paths:
     - sea/Stage.arc/Event0E0:TACT1_RT/Actor001/Action003
 The Great Sea - Goron Trading Reward:
-  Need: Rescued Aryll & Delivery Bag
+  Need: Rescued Aryll & Delivery Bag & Wind Waker
   # You need at least 560 rupees to get the final item, but you don't need a wallet upgrade since the most you need at one time is 200 rupees.
   Original item: Piece of Heart
   Types: Long Sidequest, Expensive Purchase
