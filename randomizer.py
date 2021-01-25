@@ -505,6 +505,7 @@ class Randomizer:
     tweaks.add_failsafe_id_0_spawns(self)
     tweaks.remove_minor_panning_cutscenes(self)
     tweaks.fix_message_closing_sound_on_quest_status_screen(self)
+    tweaks.fix_day_night_cycle(self)
     tweaks.fix_stone_head_bugs(self)
     
     customizer.replace_link_model(self)
