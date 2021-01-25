@@ -2164,6 +2164,11 @@ def fix_message_closing_sound_on_quest_status_screen(self):
   msg.string = ""
   msg.text_box_type = 9 # Item get message box
 
+def fix_day_night_cycle(self):
+  # Sets the cycle to always be true, with ot without necessary items
+  self.dol.write_data(write_float, 0x801908e4, 1.0)
+  # Thank you, Gamma, for necessary address
+  # Thanks to Zach the DualVision for sharing this with me
 def fix_stone_head_bugs(self):
   # Unset the actor status bit for stone heads that makes them not execute on frames where they didn't draw because they weren't in view of the camera.
   # The fact that they don't execute when you're not looking at them can cause various bugs.
