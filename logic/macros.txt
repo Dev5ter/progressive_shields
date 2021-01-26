@@ -51,6 +51,10 @@ Ice Arrows:
   Progressive Bow x2
 Light Arrows:
   Progressive Bow x3
+Hero's Shield:
+  Progressive Shield x1
+Mirror Shield:
+  Progressive Shield x2
 Any Wallet Upgrade:
   Progressive Wallet x1
 Picto Box:
