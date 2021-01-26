@@ -30,7 +30,7 @@ REGULAR_ITEMS = [
   "Empty Bottle",
   "Magic Meter Upgrade",
   "Wind Waker",
-  "Ballad of Galles",
+  "Ballad of Gales",
   "Song of Passing",
   "Wind's Requiem",
 ]
