@@ -767,6 +767,7 @@ In Swordless Mode:
   Option "sword_mode" Is "Swordless"
 Outside Swordless Mode:
   Option "sword_mode" Is Not "Swordless"
-
+Swift Sail:
+  Option "swift_sail" Enabled
 TODO:
   Impossible
